@@ -57,3 +57,18 @@ page.open('http://www.sample.com', function() {
   });
 });
 ```
+
+## 4. Puppeteer
+[Puppeteer](https://developers.google.com/web/tools/puppeteer/get-started)
+[headless-chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
+[ssr](https://developers.google.com/web/tools/puppeteer/articles/ssr)
+[example](https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e)
+[unit tests](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
+
+```sh
+$ npm i -S puppeteer
+$ vi example.js
+$ node example.js
+$ node playLiveSTC-POS.js
+```
+
