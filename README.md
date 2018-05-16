@@ -70,5 +70,6 @@ $ npm i -S puppeteer
 $ vi example.js
 $ node example.js
 $ node playLiveSTC-POS.js
+$ node epms.js
 ```
 
